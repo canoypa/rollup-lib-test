@@ -6,6 +6,9 @@
   "author": "Cano <contact.sasasaky@gmail.com>",
   "license": "NONE",
   "private": true,
+  "scripts": {
+    "build": "rollup -c"
+  },
   "devDependencies": {
     "rollup": "^2.18.2",
     "rollup-plugin-typescript2": "^0.27.1",
